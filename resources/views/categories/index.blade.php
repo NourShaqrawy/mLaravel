@@ -14,8 +14,7 @@
         </small>
     </h1>
     
-        </div>
-        <?php endif?>
+        
     <table class="table">
         <thead>
             <tr>
