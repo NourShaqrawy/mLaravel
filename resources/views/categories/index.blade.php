@@ -13,11 +13,7 @@
             <a href="categories/create">Create</a>
         </small>
     </h1>
-    <div class="table-responsive"> 
-    <?php if($flashmessage):?>
-        <div class="alert alert-success">
-            <?=$flashmessage?>
-
+    
         </div>
         <?php endif?>
     <table class="table">
