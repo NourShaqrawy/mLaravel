@@ -35,6 +35,7 @@ class CategoriesController extends Controller
 
        return view('categories.index',[
         'categories' => $category,
+        'title'=> 'categories'
         
        ]);
     }
